@@ -1,3 +1,21 @@
+# Editors and IDEs
+.vscode/
+.idea/
+
+# Audio files
+*.wav
+*.mp3
+audio/
+commands*/
+songs*/
+hidden-voice-commands*/
+integrated-commands*/
+
+# Logs
+*.out
+*.txt
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
