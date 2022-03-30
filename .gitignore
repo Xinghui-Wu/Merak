@@ -11,10 +11,11 @@ songs*/
 hidden-voice-commands*/
 integrated-commands*/
 
-# Logs
+# Logs excluding the requirement file
 *.out
-*.txt
 *.csv
+*.txt
+!requirements.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
